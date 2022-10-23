@@ -5,5 +5,5 @@ files:
     destination: /home/ubuntu
 hooks:
   AfterInstall:
-    - location: /test.sh
+    - location: test.sh
       timeout: 300
