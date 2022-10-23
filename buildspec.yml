@@ -19,3 +19,4 @@ artifacts:
   files:
     - customer_frontend/build/**
     - appspec.yml
+    - test.sh
